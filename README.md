@@ -1,1 +1,1 @@
-# Stock_price_movement_tracker
+The Stock Prices Movement Tracker is a lightweight application that monitors, visualizes, and analyzes the price movements of stocks in real-time or over historical periods. It's designed to help traders, investors, and financial analysts make data-driven decisions with clean and intuitive visualizations.
